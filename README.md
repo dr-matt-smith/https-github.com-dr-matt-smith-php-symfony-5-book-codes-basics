@@ -15,3 +15,8 @@ Below are links to the project for the BASICS part of the book
 
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-basics-01-hello-response
 
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-basics-02-customized-twig
+
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-basics-03-show-student
+
+- 
