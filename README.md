@@ -19,4 +19,6 @@ Below are links to the project for the BASICS part of the book
 
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-basics-03-show-student
 
-- 
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-basics-04-diy-repository
+
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-basics-05-show-with-id
